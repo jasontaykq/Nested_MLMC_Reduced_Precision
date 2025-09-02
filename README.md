@@ -4,6 +4,7 @@
 **Institution:** University of Oxford, Lady Margaret Hall  
 **Degree:** MSc in Mathematical Modelling and Scientific Computing  
 **Thesis Title:** *Nested Multilevel Monte Carlo Framework using Reduced Precision Arithmetic*
+
 **Supervisor:** Prof. Mike Giles FRS
 
 ## Description
